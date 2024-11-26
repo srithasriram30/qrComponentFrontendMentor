@@ -1,0 +1,41 @@
+.qrCode img {
+    width: 275px;
+}
+
+.qrCode {
+    display: flex;
+    justify-content: center;
+}
+
+.qrComponent {
+    max-width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 2em;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.qrComponent h1 {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.qrComponent p {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Outfit';
+    background-color: hsl(212, 45%, 89%);
+}
+
+.attribution {
+    padding-top: 2em;;
+    font-size: 10px;
+}
