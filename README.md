@@ -32,7 +32,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [My Solution](https://github.com/srithasriram30/qrComponentFrontendMentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://srithasriram30.github.io/qrComponentFrontendMentor/)
 
 ## My process
 
